@@ -1,0 +1,9 @@
+<!doctype>
+<html>
+  <head>
+    <iframe> fav</iframe>
+  </head>
+  <body>
+    <a href="../asserts/images/rr.JPG"> fav</a>
+  </body>
+</html>
